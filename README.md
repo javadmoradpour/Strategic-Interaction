@@ -1,0 +1,2 @@
+# Strategic-Interaction-
+This notebook shows how I extracted some variables from IMS data to generate a new data set which is used in my paper “Competition and innovation in pharmaceutical market: A structural model”. It also include the codes for cleaning the new data set. You can find the full paper in following link: https://www.javadmoradpour.com/post/competition-and-innovation-a-structural-model-using-the-pharmaceutical-market
